@@ -1,0 +1,11 @@
+#taulell{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+body{
+    text-align: center;
+    justify-content: center;
+}
